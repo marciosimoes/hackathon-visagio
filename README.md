@@ -1,2 +1,5 @@
-# hackathon-visagio
-Arquivos do Hackathon da Visagio realizado em 2019 e o qual minha equipe chegou na fase presencial.
+# Hackathon Visagio
+
+The hackathon consists of presenting solutions using Data Science, for example the development of a Recommendation System in order to help in the sustainable growth of the Imaginarium store network in the online environment.
+
+[Ceritificate Here!](https://visagio.com/univisagio/certificado/5672294683)
